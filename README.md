@@ -1,5 +1,8 @@
-# Welcome to GitHub Desktop!
+DESAFIO DE PROGRAMAÇÃO - ACADEMIA CAPGEMINI
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
-
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+# Questão 01
+Resolvida 
+# Questão 02
+Resolvida
+# Questão 03
+demorei um pouco mais consegui :)
